@@ -1,0 +1,11 @@
+basePath: /api
+host: forum.easystartup.su
+info:
+  contact:
+    email: red.tea.dev@gmail.com
+    name: API Support
+  description: Forum service for EasyStartup.
+  title: EasyStartup Forum
+  version: "1.0"
+paths: {}
+swagger: "2.0"

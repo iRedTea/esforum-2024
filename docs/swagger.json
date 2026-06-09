@@ -1,0 +1,15 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Forum service for EasyStartup.",
+        "title": "EasyStartup Forum",
+        "contact": {
+            "name": "API Support",
+            "email": "red.tea.dev@gmail.com"
+        },
+        "version": "1.0"
+    },
+    "host": "forum.easystartup.su",
+    "basePath": "/api",
+    "paths": {}
+}
