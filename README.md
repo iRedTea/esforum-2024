@@ -39,3 +39,15 @@ go build -o esforum ./cmd/release
 - `POST /api/post` : Создать пост
 - `DELETE /api/post/:id` : Удалить пост по ID
 - `GET /swagger/*any` : Swagger UI и документация
+
+### Конфигурация
+- Для запуска нужно прописать конфигурационный файл configs/config.yml. Пример ключевых полей:
+
+```yaml
+port: "8011"
+db:
+	host: "..."
+	port: "3306"
+	username: "..."
+	dbname: "..."
+```
