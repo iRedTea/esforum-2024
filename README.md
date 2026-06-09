@@ -12,13 +12,13 @@
 
 ### Быстрый старт
 
-Требования: `Go >= 1.22`, Docker (опционально).
+Требования: `Go >= 1.22`, Makefile (оптионально), Docker (опционально).
 
 Сборка локально:
 
 ```bash
-go build -o esaccount ./cmd/release
-./esaccount
+go build -o esforum ./cmd/release
+./esforum
 ```
 
 
